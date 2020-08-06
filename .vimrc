@@ -1,0 +1,12 @@
+set number
+colorscheme industry
+set showcmd
+set hlsearch
+set incsearch
+set smartindent
+set nowrap
+set smartcase
+set noswapfile
+set nobackup
+set splitright
+syntax on
