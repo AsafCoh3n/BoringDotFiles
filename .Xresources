@@ -1,7 +1,26 @@
 xterm*faceName: Monospace
 xterm*faceSize: 14
 XTerm*selectToClipboard: true
+xterm*VT100*geometry: 80x36
+xterm*background: black
+xterm*foreground: white
+xterm*loginShell: true
+xterm*scrollBar: true
+xterm*rightScrollBar: true
+xterm*title: XTerm
+xterm*iconName: XTerm
+xterm*saveLines: 50000
+xterm*jumpScroll: true
+xterm*scrollTtyOutput: false
+xterm*scrollKey: true
+xterm*alwaysUseMods: true
+xterm*metaSendsEscape: true
+xterm*utf8Title: true
 
+
+
+URxvt.iso14755: false
+URxvt.iso14755_52: false
 URxvt.background:	#000000
 URxvt.foreground:	#ffffff
 URxvt.geometry: 80x36
