@@ -10,3 +10,4 @@ set noswapfile
 set nobackup
 set splitright
 syntax on
+set visualbell
