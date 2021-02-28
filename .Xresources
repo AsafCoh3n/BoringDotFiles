@@ -2,9 +2,9 @@ URxvt.iso14755: false
 URxvt.iso14755_52: false
 URxvt.background:	#000000
 URxvt.foreground:	#ffffff
-URxvt.geometry: 94x52
-URxvt.font:			xft:DejaVu Sans Mono:pixelsize=16:antialias=true:hinting=true
-URxvt.boldFont:		xft:DejaVu Sans Mono:bold:pixelsize=16:antialias=true:hinting=true
+URxvt.geometry: 77x42
+URxvt.font:			xft:DejaVu Sans Mono:pixelsize=13:antialias=true:hinting=true
+URxvt.boldFont:		xft:DejaVu Sans Mono:bold:pixelsize=13:antialias=true:hinting=true
 URxvt.scrollBar:	false
 URxvt.saveLines:	65535
 Xft*dpi:      96 
@@ -26,3 +26,4 @@ URxvt.keysym.KP_7:      7
 URxvt.keysym.KP_8:      8
 URxvt.keysym.KP_9:      9
 URxvt.keysym.KP_0:      0
+URxvt.letterSpace: -1
